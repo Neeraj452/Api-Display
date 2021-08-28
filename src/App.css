@@ -1,0 +1,41 @@
+.cards1{
+  width: 14rem;
+  height: 18rem;
+}
+.inline{
+  display:inline-block;
+}
+.m{
+  margin-left: 5px;
+}
+.off{
+  
+  color:red;
+}
+.margin{
+  margin-right: 100px;
+}
+
+.del {
+  text-decoration: line-through;
+  color: #555;}
+  .border{
+    border:chartreuse solid;
+    margin-top: 5px;
+  }
+
+  .radioborder{
+    height: 150px;
+    border-bottom: black solid;
+  }
+  .right{
+    margin-left: 50px;
+  }
+
+  .radioborder1{
+    height: 230px;
+    border-bottom: black solid;
+  }
+  .mr{
+    margin-right: 50px;
+  }
